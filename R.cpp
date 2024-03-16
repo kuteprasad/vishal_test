@@ -4,6 +4,6 @@ using namespace std;
 int main(){
     cout<<"Hello";
 
-    int a=9;
+    int a=90;
     return 0;
 }
